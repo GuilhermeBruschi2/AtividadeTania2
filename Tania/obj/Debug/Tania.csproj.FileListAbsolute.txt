@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Tania\Tania\bin\Debug\Tania.exe.config
+C:\Users\Usuario\source\repos\Tania\Tania\bin\Debug\Tania.exe
+C:\Users\Usuario\source\repos\Tania\Tania\bin\Debug\Tania.pdb
+C:\Users\Usuario\source\repos\Tania\Tania\obj\Debug\Tania.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tania\Tania\obj\Debug\Tania.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tania\Tania\obj\Debug\Tania.exe
+C:\Users\Usuario\source\repos\Tania\Tania\obj\Debug\Tania.pdb
